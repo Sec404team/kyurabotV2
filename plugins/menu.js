@@ -26,18 +26,18 @@ const defaultMenu = {
 ∴┃⃝〲 *Uptime* : _%uptime (%muptime)_
 ∴┃⃝〲 *Database* : _%rtotalreg dari %totalreg_
 ∴┃⃝〲 *Github* : 
-∴┃   bit.ly/githubkyura
+∴┃   github.com/HR308
 ∴┃⃝〲 *Youtube* : 
-∴┃   bit.ly/youtubekyura
+∴┃   youtube.com/Ue82nx9rj
 ∴┃⃝〲 *Source Code* :
-∴┃   github.com/KyuraSaja/kyurabotV2
+∴┃   github.com/HR308/kyurabotV2
 ∴╰┄━━━━┄➤`.trimStart(),
   header: '╭━━❰❬｢*%category*｣❭❱━┄➤',
   body: '┃⃝〲%cmd %islimit %isPremium',
   footer: '╰━━┄➤\n',
   after: `
-*KyuraBot*
-_Recode Oleh : Kyura_
+*By HafARsyd*
+_Recode Oleh : ValeBot_
 _SourceCode Ori By Nurutomo_
 `,
 }
