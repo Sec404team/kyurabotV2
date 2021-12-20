@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'bit.ly/officialgrupkanaobot'
+gc1 = 'bit.ly/nggakada'
 gc2 = ''
 gc3 = ''
-global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6281998903280'] // Put your number here //owner eval
-global.kontak = ['6281998903280'] //Ketika ada yang ngetik #owner
-global.mods = ['6281998903280'] // Want some help?
-global.prems = ['6281998903280'] // Premium user has unlimited limit
+global.linkGC = ['bit.ly/nggakada'] // ganti jadi group lu
+global.owner = ['6285706642632'] // Put your number here //owner eval
+global.kontak = ['6285706642632'] //Ketika ada yang ngetik #owner
+global.mods = ['6285706642632'] // Want some help?
+global.prems = ['6285706642632'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -46,26 +46,26 @@ zekskey = 'apivinz'
 xteamkey = '057f32b5931c3bce'
 //xteam     KYURABOT
 namaig = 'bit.ly/instagramkyura'
-namagithub = 'bit.ly/githubkyura'
+namagithub = 'github.com/HR308'
 kasihcaption = `Nihh...`
-namakontak1 = 'Kyura'
-namakontak2 = 'Ardhi'
+namakontak1 = 'ValeBot'
+namakontak2 = 'HafARsyd'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'From' // ganti aja
-global.author = 'KyuraBOT' // ganti aja
+global.packname = 'Made With ♥️' // ganti aja
+global.author = 'ValeBOT' // ganti aja
 
 //yyy
-bc = 'KanaoBOT' //RFK Broadcast
-footer = '\n©Kyura'
-namabot = 'KanaoBOT'
-namalu = 'Kyura'
+bc = 'Vale Bot Official' //RFK Broadcast
+footer = '\n© By ValeBot'
+namabot = 'ValeBot'
+namalu = 'HafARsyd'
 
 
 // 
-wait = 'cotto ne...tungguinn\ndemo..subscribe yaa\n youtube.com/c/KYURA'
+wait = 'cotto ne...tungguinn\ndemo..subscribe yaa\n youtube.com/7xnw9wx'
 global.wait = 'anooo...matte nee...lgi diproses'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
