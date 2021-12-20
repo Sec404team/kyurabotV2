@@ -26,8 +26,8 @@ let handler  = async (m, { conn, usedPrefix }) => {
 │✎ *Uptime:* ${uptime}
 │
 ╭─˗ˏˋ *Donasi*  ´ˎ˗
-│✎ Pulsa : 089677763976
-│✎ Dana & OVO: 089677763976
+│✎ Pulsa : 085706642632
+│✎ Dana & Gopay : 085706642632
 │
 │✎Official Grup :
 │${gc1}
